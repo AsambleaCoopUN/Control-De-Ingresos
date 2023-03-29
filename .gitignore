@@ -215,4 +215,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#conexion a la base
+./conexion/conexion.js
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,node
