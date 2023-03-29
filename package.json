@@ -1,0 +1,24 @@
+{
+  "name": "control-de-ingresos",
+  "version": "1.0.0",
+  "description": "aplicativo para el control de ingresos de asociados, visitantes y funcionarios de CoopUn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Desarrollarodes: Andres Cardenas y Jeisson Velosa, Base de datos: Miguel Castañeda",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^8.8.2",
+    "boostrap": "^2.0.0",
+    "css": "^3.0.0",
+    "ejs": "^3.1.9",
+    "ejs-lint": "^2.0.0",
+    "express": "^4.18.2",
+    "jquery": "^3.6.4",
+    "node": "^19.8.1",
+    "nodemon": "^2.0.22",
+    "pg": "^8.10.0",
+    "postgres": "^3.3.4"
+  }
+}
