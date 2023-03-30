@@ -216,7 +216,7 @@ $RECYCLE.BIN/
 *.lnk
 
 #conexion a la base
-.conexion/
-.conexion/conexion.js
+conexion/
+conexion/conexion.js
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,node
